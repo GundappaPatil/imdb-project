@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div>I am Navbar and i will be at top of the page</div>
   )
 }
 
