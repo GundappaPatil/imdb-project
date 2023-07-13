@@ -7,6 +7,7 @@ const Navbar = () => {
         <img src={logo} alt="movie" className='w-[60px] rounded-full'/>
         <h3 className='text-blue-600'>Movies</h3>
         <h3 className='text-blue-600'>WatchList</h3>
+        <h3>yes iam nav</h3>
     </div>
   )
 }
